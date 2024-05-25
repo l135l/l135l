@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @l135l
 - 👀 I’m interested in programming and tech.
-- 🌱 I’m currently learning programming to buils a game.
+- 🌱 I’m currently learning programming to build games.
 - 📫 How to reach me --> Latifa_m_alkhateri98@hotmail.com 
 
 <!---
